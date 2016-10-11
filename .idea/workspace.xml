@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e22af0aa-8f34-47de-91f4-173f3b319899" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PageTwo.html" afterPath="$PROJECT_DIR$/src/PageTwo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/RaleighProperties.html" afterPath="$PROJECT_DIR$/src/RaleighProperties.html" />
     </list>
     <ignored path="RaleighProperties.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +36,8 @@
       <file leaf-file-name="PageTwo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PageTwo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="110" column="74" selection-start-line="110" selection-start-column="74" selection-end-line="110" selection-end-column="74" />
+            <state relative-caret-position="515">
+              <caret line="220" column="16" selection-start-line="220" selection-start-column="16" selection-end-line="220" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -575,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PageTwo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="110" column="74" selection-start-line="110" selection-start-column="74" selection-end-line="110" selection-end-column="74" />
+        <state relative-caret-position="515">
+          <caret line="220" column="16" selection-start-line="220" selection-start-column="16" selection-end-line="220" selection-end-column="16" />
           <folding />
         </state>
       </provider>
